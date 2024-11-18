@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rahul Gupta, a passionate Machine Learning Engineer from India:
-🔭 I’m currently working on Recommendation Engine for proposing diet and workout based on life style<br><br>🌱 I’m currently learning about how to apply machine learning techniques to solve real world problems.<br><br>📫 How to reach me rahul.gupta312002@gmail.com
+🔭 I’m currently working on a Personalised Recommendation Engine for Proposing Diet and Workout based on Lifestyle.<br><br>🌱 I’m currently learning about how to apply machine learning techniques to solve real world problems.<br><br>📫 How to reach me rahul.gupta312002@gmail.com
 <h2 align="left"></h2>
 
 ###
